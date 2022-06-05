@@ -1,0 +1,9 @@
+編集しながらコンパイルして実行してくれる
+npm run dev (パス指定)
+
+ファイル作成コマンド
+     初期ソースコード    ファイル名
+echo 'export {};' > src/number-string.ts
+
+[axios]
+axiosとは axiosはPromiseベースのHTTP ClientライブラリでGETやPOSTのHTTPリクエストを使ってサーバからデータの取得、サーバ上のデータの更新を行うことができます。 axiosではなくfetch関数を利用しても同様の処理を行うことができます。
