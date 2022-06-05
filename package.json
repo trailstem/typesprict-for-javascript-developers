@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tmcoco0228si/typesprict-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/tmcoco0228si/typesprict-for-javascript-developers#readme"
+  "homepage": "https://github.com/tmcoco0228si/typesprict-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
